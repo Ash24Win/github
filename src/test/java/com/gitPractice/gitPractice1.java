@@ -2,11 +2,6 @@ package com.gitPractice;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
-
-<<<<<<< HEAD
-=======
-
->>>>>>> bfadd7745cc40e783b6dc5cd1d92d3de7fa0abb7
 public class gitPractice1 {
 	@Test
 	public void gitBash()
