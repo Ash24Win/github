@@ -9,5 +9,10 @@ public class gitPractice1 {
 	{
 		Reporter.log("Hello Git",true);
 	}
+	
+	public void gitBash1()
+	{
+		Reporter.log("Hello Bash",true);
+	}
 
 }
