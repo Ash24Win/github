@@ -2,7 +2,7 @@ package com.gitPractice;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
-// code by person 2 B
+
 public class gitPractice1 {
 	@Test
 	public void gitBash()
@@ -14,5 +14,5 @@ public class gitPractice1 {
 	{
 		Reporter.log("Hello Bash",true);
 	}
-
+// code by person 2 B
 }
