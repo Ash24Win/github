@@ -2,6 +2,7 @@ package com.gitPractice;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
+//code by person 1
 public class gitPractice1 {
 	@Test
 	public void gitBash()
