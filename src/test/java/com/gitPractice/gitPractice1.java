@@ -14,6 +14,4 @@ public class gitPractice1 {
 	{
 		Reporter.log("Hello Bash",true);
 	}
-
-
 }
