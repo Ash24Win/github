@@ -14,5 +14,5 @@ public class gitPractice1 {
 	{
 		Reporter.log("Hello Bash",true);
 	}
-// code by person 2 B
+
 }
